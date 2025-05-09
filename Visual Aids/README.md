@@ -90,6 +90,23 @@ Each author points to their book(s).
 
 This visual demonstrates how TreeMap maintains order and groups data logically for easy retrieval and display.
 
+
+![image](https://github.com/user-attachments/assets/a1650a84-c0ea-46d7-934b-10225601b212)
+
+Here is the combined visual diagram showing:
+
+🌳 A Binary Search Tree (BST) of genres:
+
+Fiction as the root
+
+Fantasy, History, Biography, and Science as descendants
+
+📂 Under Science, a TreeMap:
+
+Sorted authors: Carl Sagan and Stephen Hawking
+
+Each author linked to their books: Cosmos and A Brief History of Time
+
 ---
 
 ## 🧠 Why Use These Structures?
